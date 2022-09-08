@@ -38,6 +38,10 @@ Projeto de uma landing page fictícia desenvolvida em HTML5 e CSS3, onde o objet
 
 <img src="./img_project/Image_7.png">
 
+## Link do projeto desenvolvido:
+
+https://lsantana95.github.io/Landing-Page/
+
 ## Autor:
 
 Onde me encontrar?
